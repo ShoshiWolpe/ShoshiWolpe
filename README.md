@@ -27,6 +27,8 @@ In addition to my tech career, I’m also a **remedial teacher**, blending my lo
 📫 **How to reach me:**  
 - Email: shoshiwolpe@gmail.com
 
+⚡ **Fun fact:** I love combining creativity and logic to solve real-world problems, whether it’s debugging code or helping students overcome challenges.  
+
 ## 🌟 My Brand: SW Automate  
 **"Smart Workflows, Smarter Results"**  
 I focus on creating solutions that save time and deliver results.  
@@ -37,7 +39,6 @@ Check out some of my work:
 - 🤖 **Project 2**: Chatbot integration for customer support.  
 - 📊 **Project 3**: CRM enhancements for client management.
 --->
-⚡ **Fun fact:** I love combining creativity and logic to solve real-world problems, whether it’s debugging code or helping students overcome challenges.  
 
 <!---
 ShoshiWolpe/ShoshiWolpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
