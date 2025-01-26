@@ -35,7 +35,8 @@ I focus on creating solutions that save time and deliver results.
 Check out some of my work:  
 - 🛠️ **Project 1**: Automating repetitive business tasks.  
 - 🤖 **Project 2**: Chatbot integration for customer support.  
-- 📊 **Project 3**: CRM enhancements for client management.  
+- 📊 **Project 3**: CRM enhancements for client management.
+
 ⚡ **Fun fact:** I love combining creativity and logic to solve real-world problems, whether it’s debugging code or helping students overcome challenges.  
 
 <!---
