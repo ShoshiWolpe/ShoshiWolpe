@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ShoshiWolpe  
 
 🌟 **About Me:**  
-I’m a passionate **software engineer**, **developer**, and **programmer** specializing in:  
+I’m a passionate **software engineer** specializing in:  
 - **Business Automation**: Streamlining workflows for efficiency.  
 - **Chatbots**: Creating intelligent bots to improve user experience.  
 - **CRM Systems**: Customizing and optimizing customer relationship management solutions.  
